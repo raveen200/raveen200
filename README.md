@@ -1,6 +1,6 @@
 # Hello! 🥖
 
-My name is Raveen Samudika. I am a passionate full-stack developer living near Negombo, Sri Lanka. 🥐
+I am Raveen Samudika. a passionate full-stack developer living near Negombo, Sri Lanka. 🥐
 
 
 ## 🛠  Technologies and tools
