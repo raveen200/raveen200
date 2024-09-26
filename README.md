@@ -37,7 +37,7 @@ I am Raveen Samudika. a passionate full-stack developer living near Negombo, Sri
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raveen200)](https://github.com/anuraghazra/github-readme-stats)
 
 <a name="learning-next"></a>
 
@@ -66,3 +66,5 @@ I am Raveen Samudika. a passionate full-stack developer living near Negombo, Sri
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=raveen200)  
